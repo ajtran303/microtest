@@ -1,3 +1,12 @@
+# TODO
+# Re-style code to follow better conventions
+# Separate write-up explaining how this works
+# Look up the stuff I don't know
+
+# This code works! It's a miracle!
+
+
+
 # # Code-along from Ryan Davis "Writing a Test Framework from Scratch" talk at RailsConf2016
 # # https://www.youtube.com/watch?v=VPr5pmlAq20
 #
