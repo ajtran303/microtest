@@ -1,7 +1,9 @@
 # TODO
 # Separate auto-run into own module?
-# Add some more assertions
 # Ditto assertions?
+# Add some more assertions
+# Separate write-up / slides for sharing at show-and-tell / lightning talk?
+
 
 class MicroTest
 
